@@ -32,6 +32,7 @@
 
 ---
 
+
 ## 📂 Project Structure
 The project is organized as follows:
 .
@@ -51,7 +52,10 @@ The project is organized as follows:
 ├── styles/
 └── tailwind.config.js
 
+
 ---
+
+
 
 ## 🖥️ Local Setup
 
@@ -85,7 +89,9 @@ npm run dev
 
 Visit http://localhost:3000 to view the application.
 
+
 ---
+
 
 ## 🚀 Deployment
 For deployment, Vercel is recommended due to its seamless integration with Next.js.
@@ -94,7 +100,9 @@ Push your code to a Git repository (GitHub, GitLab, or Bitbucket).
 Connect your repository to Vercel.
 Vercel will automatically detect the Next.js framework and deploy your application.
 
+
 ---
+
 
 ## 📄 License
 This project is licensed under the MIT License.
