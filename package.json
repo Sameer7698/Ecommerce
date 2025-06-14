@@ -2,6 +2,7 @@
   "name": "ecommerce-web",
   "version": "0.1.0",
   "private": true,
+   "author": "Sameer Saurabh",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
