@@ -58,7 +58,7 @@ The project is organized as follows:
 ## 🖥️ Local Setup
 
 **1. Clone the Repository**
-git clone https://github.com/your-username/your-repo-name.git
+git
 cd your-repo-name
 
 **2. Install Dependencies**
@@ -85,7 +85,6 @@ Replace your_project_id with your actual Sanity project ID.
 **5. Run the Development Server**
 npm run dev
 
-Visit http://localhost:3000 to view the application.
 
 ---
 
