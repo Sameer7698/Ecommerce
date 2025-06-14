@@ -32,7 +32,7 @@
 
 ---
 
-**📂 Project Structure**
+## 📂 Project Structure
 The project is organized as follows:
 .
 ├── app/
@@ -51,7 +51,9 @@ The project is organized as follows:
 ├── styles/
 └── tailwind.config.js
 
-**🧪 Local Setup**
+---
+
+## 🖥️ Local Setup
 
 **1. Clone the Repository**
 git clone https://github.com/your-username/your-repo-name.git
@@ -82,6 +84,22 @@ Replace your_project_id with your actual Sanity project ID.
 npm run dev
 
 Visit http://localhost:3000 to view the application.
+
+---
+
+## 🚀 Deployment
+For deployment, Vercel is recommended due to its seamless integration with Next.js.
+
+Push your code to a Git repository (GitHub, GitLab, or Bitbucket).
+Connect your repository to Vercel.
+Vercel will automatically detect the Next.js framework and deploy your application.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+
 
 
 
