@@ -98,8 +98,6 @@ Vercel will automatically detect the Next.js framework and deploy your applicati
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License.
 
 
 
