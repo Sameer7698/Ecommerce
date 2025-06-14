@@ -1,3 +1,54 @@
+📸 Demo
+
+Watch the full build on YouTube →
+
+🚀 Tech Stack
+
+Framework: Next.js 13
+Styling: Tailwind CSS
+CMS: Sanity.io
+Deployment: Vercel
+🧰 Features
+
+Fully responsive e-commerce UI
+Dynamic product listing and product pages
+Integration with Sanity CMS for managing products and content
+Server-side rendering (SSR) and static generation with Next.js
+Modern file-based routing using the App Router
+Clean and modular project structure
+📂 Folder Structure (Simplified)
+
+.
+├── app/
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── product/[slug]/page.tsx
+├── components/
+│   ├── Navbar.tsx
+│   ├── ProductCard.tsx
+│   └── Footer.tsx
+├── lib/
+│   └── sanity.ts
+├── sanity/
+│   ├── schemas/
+│   └── sanity.config.ts
+├── styles/
+└── tailwind.config.js
+🧪 Getting Started
+
+Clone the repository:
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+Install dependencies:
+npm install
+Set up Sanity Studio:
+Install Sanity CLI: npm install -g @sanity/cli
+Run: sanity init --template e-commerce
+Configure environment variables in a .env.local file:
+NEXT_PUBLIC_SANITY_PROJECT_ID=your_project_id
+NEXT_PUBLIC_SANITY_DATASET=production
+Run the development server:
+npm run dev
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
